@@ -377,5 +377,3 @@ This example showcases how `Optional` integrates seamlessly with Java streams. W
 following these best practices and understanding the underlying concepts, you can write more robust and maintainable
 code. Remember that the goal of `Optional` is not just to avoid null pointer exceptions, but to make your code more
 expressive and your APIs more clear about their contracts.
-
-### W
